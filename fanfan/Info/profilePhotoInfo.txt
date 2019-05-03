@@ -1,0 +1,8 @@
+administer;./sample2.jpg
+MaJianxiang;./sample.jpg
+Rica;./sample.jpg
+Lynn;./sample.jpg
+william;./sample2.jpg
+Jake;C:/Users/willi/Desktop/sample.jpg
+test;C:/Users/willi/Desktop/sample.jpg
+zxin;C:/Users/willi/Desktop/Capture.JPGuser1;C:/Users/ricay/Documents/360截图/360截图20190124172243788.jpgRica;C:/Users/ricay/Documents/360截图/360截图20190124172243788.jpg

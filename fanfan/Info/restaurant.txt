@@ -1,0 +1,5 @@
+FoundingFarmers;American;20,40
+PoppaBox;Korean;10,30
+KAZ Sushi Bistro;Japanese;30,100
+Chik-fil-A;Fast;10,20
+Chalin's Restaurant;Chinese;10,30

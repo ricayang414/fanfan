@@ -1,0 +1,4 @@
+Rica;administer;20190501,lunch,11:30-12:00;Chalin's Restaurant
+Rica;Lynn;20190409,lunch,11:00-11:30;Chalin's Restaurant
+test;MaJianxiang;20190502,lunch,11:00-11:30;Chalin's Restaurant
+test;Rica;20190501,lunch,11:30-12:00;Chalin's Restaurant

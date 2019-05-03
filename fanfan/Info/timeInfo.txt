@@ -1,0 +1,4 @@
+administer;20190503,lunch,11:00-11:30
+Rica;20190604,lunch,1:30-2:00;20190506,lunch,11:00-11:30;20190601,dinner,5:30-6:00
+MaJianxiang
+test

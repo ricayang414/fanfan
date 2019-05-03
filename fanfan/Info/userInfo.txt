@@ -1,0 +1,8 @@
+Rica;ricayang0414;20;female;makeup,art,programming,game;students;Chinese,Fast,Japanese,Desert;20,60;@ricayang;19990414
+Lynn;123abc;21;female;makeup,art;students;Thailand,Chinese,Desert;20,60;@Lynn;19971015
+MaJianxiang;abc;19;male;anime,game;students;Chinese,Japanese,Vegetarian;20,60;@Majiangxiang;19991014
+administer;abc;20;female;makeup,anime,sports,movie,cooking,car;engineering/programming;Chinese,American,Japanese;20,50;@admin;19981216
+test;test;20;male;makeup,anime,sports,music,art,movie,cooking,car,programming,game,pets;students;Thailand,Chinese,Fast,American,Japanese,Sea,Italian,Desert,Korean,Mexican,Vietnam,Peru,African,Vegetarian;20,100;@test;19990404
+zxin;abc;19;female;makeup,music,game;students;Thailand,Chinese,Japanese,Desert,Korean;20,60;@zxin;19990810
+user1;Rica19990414!;0;female;anime,sports;students;Desert,Vietnam;0,200;@rica;20190404
+Rica;Rica19990414!;8;female;sports;students;Chinese;0,100;@Rica;20100507
